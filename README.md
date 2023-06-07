@@ -1,1 +1,1 @@
-My first readme
+Shell and bash basics

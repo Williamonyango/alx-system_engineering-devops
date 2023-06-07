@@ -1,1 +1,1 @@
-starting to code
+script to print current working directory
