@@ -7,3 +7,4 @@ listing files with user IDs represented numerically
 creating directory
 moving a file
 deleting a file
+deleting a directory
