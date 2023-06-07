@@ -11,3 +11,4 @@ deleting a directory
 changing directory to the previous one
 listing all files in multiple directories
 showing the type of the file
+creating symbolic link
