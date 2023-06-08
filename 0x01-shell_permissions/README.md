@@ -10,3 +10,4 @@ james bond
 John Doe
 mirror permission
 adding permissions to all directory of the current directory
+creating directory with 751 permission
