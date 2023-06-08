@@ -1,2 +1,2 @@
-#!/1-who_am_ibin/bash
+#!/bin/bash
 sudo chown betty betty
