@@ -14,3 +14,4 @@ creating directory with 751 permission
 changing the group owner
 changing owner and group owner
 changing owner and group owner of symbolic links
+changing owner and group if only
