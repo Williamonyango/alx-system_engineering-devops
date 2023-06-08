@@ -9,3 +9,4 @@ giving permision to everybody
 james bond
 John Doe
 mirror permission
+adding permissions to all directory of the current directory
